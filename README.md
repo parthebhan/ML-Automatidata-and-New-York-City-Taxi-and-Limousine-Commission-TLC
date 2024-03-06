@@ -1,4 +1,4 @@
-# **Automatidata - Machine Learning Model - For New York City Taxi and Limousine Commission (TLC) - Multi Linear Regression model and Random Forest Classifier model**
+# **Automatidata - Machine Learning Models - For New York City Taxi and Limousine Commission (TLC) - Multi Linear Regression model and Random Forest Classifier model**
 
 Automatidata is consulting for the New York City Taxi and Limousine Commission (TLC). New York City TLC is an agency responsible for licensing and regulating New York City's taxi cabs and for-hire vehicles.The TLC data comes from over 200,000 taxi and limousine licensees, making approximately one million combined trips per day.  
 

@@ -10,7 +10,7 @@ The agency has partnered with Automatidata to develop the models that helps
 
 Objective: To accurately estimate taxi fares using machine learning techniques, enabling taxi drivers and passengers to have an estimate of the fare before the ride begins. This can improve transparency and help passengers plan their travel expenses more effectively.
 
-## **Problem Statement: 2.Predict Likelihood of a Customer Not Leaving a Tip:**<br>
+## **Problem Statement: 2. Predicting Likelihood of a Customer Not Leaving a Tip:**<br>
 
 ***Develop a classification model to predict if a customer is unlikely to leave a tip based on historical data collected by TLC.***
 

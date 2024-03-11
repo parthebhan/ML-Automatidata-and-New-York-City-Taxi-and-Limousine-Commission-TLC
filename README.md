@@ -4,13 +4,13 @@ Automatidata is consulting for the New York City Taxi and Limousine Commission (
 
 The agency has partnered with Automatidata to develop the models that helps 
 
-**Problem Statement: 1.Estimate Taxi Fares Before the Ride:**<br>
+## **Problem Statement: 1.Estimate Taxi Fares Before the Ride:**<br>
 
 ***Develop a regression model to predict taxi fares before the ride based on relevant features from the data that TLC has gathered.***
 
 Objective: To accurately estimate taxi fares using machine learning techniques, enabling taxi drivers and passengers to have an estimate of the fare before the ride begins. This can improve transparency and help passengers plan their travel expenses more effectively.
 
-**Problem Statement: 2.Predict Likelihood of a Customer Not Leaving a Tip:**<br>
+## **Problem Statement: 2.Predict Likelihood of a Customer Not Leaving a Tip:**<br>
 
 ***Develop a classification model to predict if a customer is unlikely to leave a tip based on historical data collected by TLC.***
 

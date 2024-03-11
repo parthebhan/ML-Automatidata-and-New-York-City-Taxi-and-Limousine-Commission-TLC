@@ -6,13 +6,15 @@ The agency has partnered with Automatidata to develop the models that helps
 
 **1.Estimate Taxi Fares Before the Ride:**
 
-***Problem Statement: Develop a regression model to predict taxi fares before the ride based on relevant features from the data that TLC has gathered.***
+***Problem Statement: 
+***Develop a regression model to predict taxi fares before the ride based on relevant features from the data that TLC has gathered.***
 
 Objective: To accurately estimate taxi fares using machine learning techniques, enabling taxi drivers and passengers to have an estimate of the fare before the ride begins. This can improve transparency and help passengers plan their travel expenses more effectively.
 
 **2.Predict Likelihood of a Customer Not Leaving a Tip:**
 
-***Problem Statement: Develop a classification model to predict if a customer is unlikely to leave a tip based on historical data collected by TLC.***
+***Problem Statement: 
+***Develop a classification model to predict if a customer is unlikely to leave a tip based on historical data collected by TLC.***
 
 Objective: To create a predictive tool that alerts taxi drivers to customers who are unlikely to leave a tip, allowing drivers to make informed decisions about their service. By identifying such customers in advance, taxi drivers can prioritize their service efforts and potentially mitigate the impact of non-tipping customers on their earnings.
 

@@ -15,7 +15,6 @@ Objective: To accurately estimate taxi fares using machine learning techniques, 
 
 [![Hugging Face Badge](https://img.shields.io/badge/hugging_face_-Taxi_Fares_Estimator_App-ff69b4.svg?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/Parthebhan/Automatidata_fare_estimator)
 
-[<img src="https://img.shields.io/badge/hugging_face_-Taxi_Fares_Estimator_App-ff69b4.svg?style=for-the-badge&logo=huggingface" alt="Hugging Face Badge">](https://huggingface.co/spaces/Parthebhan/Automatidata_fare_estimator)
 **2.Predict Likelihood of a Customer Not Leaving a Tip:**
 
 ***Problem Statement: Develop a classification model to predict if a customer is unlikely to leave a tip based on historical data collected by TLC.***
